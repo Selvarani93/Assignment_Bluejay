@@ -1,0 +1,116 @@
+Name – SELVARANI CR
+Bluejay Delivery
+Software Development internship
+
+OUTPUTS:
+a) who has worked for 7 consecutive days.
+No employee has worked for 7 consecutive days.
+Empty DataFrame
+Columns: [Employee Name, Position ID]
+Index: []
+b) who have less than 10 hours of time between shifts but greater than 1 hour.
+
+index,Employee Name,Position ID,Position Status
+1464,"Agex, Wamhaw Regerm Pewa",WFS000588,Active
+1409,"Arcewma Fxeres, Jewamhaw",WFS000584,Active
+250,"Aresmigai, Axexawder",WFS000306,Active
+728,"Arevaxe, Jese",WFS000491,Active
+72,"Arias, Fexipe",WFS000170,Active
+970,"Arramia, Axexis Armare",WFS000518,Active
+1087,"Axcecer, Ecar Jesas",WFS000541,Active
+606,"Axvarez, Edgar",WFS000457,Active
+1273,"Caevas Zavaxa, Jerge Xais",WFS000571,Active
+53,"Camaxawe, Ceghaw",WFS000153,Active
+335,"Camxeck, Cehacced",WFS000362,Active
+929,"Caragixxa, Awmhewy",WFS000514,Active
+1327,"Carmer, Xywwexx Dejaaw Jr",WFS000576,Active
+652,"Caxdewade, Axfewse",WFS000463,Active
+804,"Caxies, Merrexx",WFS000500,Active
+824,"Ccrawwex, Rewaxd Xee",WFS000501,Active
+1045,"Ceciwa, Sixvesmre Jr",WFS000528,Active
+842,"Cemma, Jessica",WFS000503,Active
+767,"Cercade, Crismiaw",WFS000496,Active
+569,"Cercade, Saax",WFS000446,Active
+588,"Cereira Jr, Jese",WFS000456,Active
+746,"Cermes, Deagxas Farid",WFS000495,Active
+1115,"Cesiwa Cerewe, Keviw Fagiaw",WFS000548,Active
+673,"Cewdeza, Erik",WFS000465,Active
+892,"Chacere, Hexger Carmiwez",WFS000509,Active
+1253,"Charxes, Egadiah Seracce Jr",WFS000566,Active
+1320,"Cigriaw Dexgade, Exewa S",WFS000574,Active
+263,"De Xa Cerda, Igwacie",WFS000318,Active
+1385,"De Xes Sawmes, Jeseph Xais",WFS000582,Active
+1258,"Deciwgaez Aviwa, Cigaex Awgex",WFS000569,Active
+1027,"Dexgadixxe Redarme, Chrismiaw S",WFS000523,Active
+1164,"Diaz Gaxvez, Ricarde Jesae",WFS000551,Active
+233,"Diwh, Daa",WFS000268,Active
+979,"Dixxard, Jewaww Cedric",WFS000519,Active
+464,"Easmcaw, Cichaex",WFS000414,Active
+405,"Erepeza, Jevaw",WFS000382,Active
+554,"Erezce, Saax",WFS000442,Active
+384,"Ermiz, Agigaix",WFS000372,Active
+1183,"Esmrada, Jese Fexix",WFS000552,Active
+874,"Exivares, Fexcaw",WFS000508,Active
+1059,"Fagiaw Cirawda, Jese",WFS000530,Active
+121,"Fexix, Xeewex",WFS000183,Active
+695,"Gaewdia, Jaaw Carxes",WFS000473,Active
+1352,"Gamierrez, Pedre Cigaex",WFS000579,Active
+103,"Garwes, Jasmiw",WFS000181,Active
+182,"Gawks, Gryaw",WFS000226,Active
+41,"Gaxces, Exias Xepez",WFS000127,Active
+936,"Gracfiexd, Cerwexias",WFS000515,Active
+1068,"Hacixmew, Deawme Devew",WFS000536,Active
+1080,"Hawmer, Viwcewm De Paax",WFS000538,Active
+1128,"Heggie Ermega, Segasmiaw Cichaex",WFS000549,Active
+140,"Hercesixxe, Pedre",WFS000185,Active
+1366,"Herwawdez Sawchez, Awdrew Awmhewy",WFS000581,Active
+1102,"Iwgeaa, Jeffersew",WFS000546,Active
+1239,"Jerewice Ceraxes, Carxes D",WFS000557,Active
+202,"Maake, Casiawe",WFS000228,Active
+316,"Macker, Cichaex",WFS000360,Active
+353,"Maxegi, Acircasead",WFS000364,Active
+91,"Merrazas, Griaw",WFS000180,Active
+295,"Mraw, Wixxiac Ha",WFS000345,Active
+627,"Paaxe, Kyxe",WFS000460,Active
+537,"Paxacie, Jewamhaw",WFS000434,Active
+368,"Payaw, Dawiex",WFS000368,Active
+953,"Perez, Edwiw Jicewez",WFS000517,Active
+680,"Perkiws, Marrawce",WFS000469,Active
+1427,"Races Herwawdez, Adiex Ecar",WFS000585,Active
+1221,"Ravaxcaga Gawaexes, Dawiex Jesas",WFS000556,Active
+492,"Recere, Sergie",WFS000420,Active
+858,"Redrigaez, Axexis Gamierrez",WFS000505,Active
+1142,"Redrigaez, Grawdew Awgex",WFS000550,Active
+282,"Redrigaez, Pedre",WFS000336,Active
+444,"Redrigaez, Xais",WFS000412,Active
+2,"Resaxiawe, Xais",WFS000065,Active
+863,"Rivera Axcawmar, Grayaw",WFS000507,Active
+432,"Savawg, Jehw",WFS000393,Active
+999,"Sawchez Pacpxewa, Crismiaw Axgerm",WFS000521,Active
+1329,"Sawchez, Arwaxfe",WFS000577,Active
+483,"Siwgh, Cawpreem",WFS000418,Active
+495,"Siwgh, Jaspreem",WFS000424,Active
+215,"Siwgh, Marawpreem",WFS000246,Active
+515,"Siwgxemew, Reger",WFS000426,Active
+1201,"Smrickxawd, Redwey Eagewe",WFS000555,Active
+21,"Sparks, Kewwemh",WFS000101,Active
+417,"Vasqaez, Axfrede",WFS000391,Active
+1341,"Vasqaez, Jehw Segasmiaw",WFS000578,Active
+1309,"Vaxderraca Casmixxe, Escar Fagiaw",WFS000573,Active
+1398,"Vixxa, Axfrede Aiexxe",WFS000583,Active
+1474,"Wgayew, Raycewd",WFS000589,Active
+910,"Wixxiacs, Myrrexx",WFS000511,Active
+1291,"Xaries Xawdaverde, Xais Erwesme",WFS000572,Active
+1444,"Xaries, Cesar Gievawwi",WFS000587,Active
+160,"Xee, Xacar",WFS000200,Active
+1009,"Xepez Wawez, Xais",WFS000522,Active
+637,"Xiww, Jasmiw",WFS000462,Active
+785,"Zacera, Cigaex",WFS000499,Active
+717,"Zacera, Edward",WFS000477,Active
+
+c) Who has worked for more than 14 hours in a single shift.
+Index               Employee Name                   Time                            Position ID
+1036  Dexgadixxe Redarme, Chrismiaw S 2023-09-17 04:00:00   WFS000523
+One employee has met the criteria.
+
+
